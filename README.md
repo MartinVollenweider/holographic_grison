@@ -1,2 +1,2 @@
-# holographic_grison
+# holographic_grisons
 Foirschungsprojekt Holographoc Grisons
