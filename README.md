@@ -1,2 +1,2 @@
 # holographic_grisons
-Foirschungsprojekt Holographoc Grisons
+Forschungsprojekt Holographoc Grisons
