@@ -1,0 +1,1880 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1389648211596146}
+  m_IsPrefabParent: 1
+--- !u!1 &1009837967498282
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4967156380636662}
+  - component: {fileID: 33576203748172338}
+  - component: {fileID: 65400660537026596}
+  - component: {fileID: 23243447536456270}
+  - component: {fileID: 114597705146037196}
+  m_Layer: 0
+  m_Name: "H\xF6rnli"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1324772410625266
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4817967875786962}
+  - component: {fileID: 33764774599934154}
+  - component: {fileID: 65651631888938388}
+  - component: {fileID: 23580065915107648}
+  - component: {fileID: 114567137895538230}
+  m_Layer: 0
+  m_Name: Parpaner Rothorn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1354090847014330
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4043876332974390}
+  - component: {fileID: 33786325336079730}
+  - component: {fileID: 65750435095096198}
+  - component: {fileID: 23438059120030898}
+  - component: {fileID: 114987081873979296}
+  m_Layer: 0
+  m_Name: guggernellgrat
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1380651472152200
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4192217072367080}
+  - component: {fileID: 33986427195169512}
+  - component: {fileID: 65107103067464230}
+  - component: {fileID: 23785709475332254}
+  - component: {fileID: 114081247364910586}
+  m_Layer: 0
+  m_Name: weisshorn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1387864329543286
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4062681231273644}
+  - component: {fileID: 33969340965527366}
+  - component: {fileID: 65575616509501872}
+  - component: {fileID: 23489797931002424}
+  - component: {fileID: 114995042523389326}
+  m_Layer: 0
+  m_Name: Arosa
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1389648211596146
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4606437115425806}
+  - component: {fileID: 114211424882885986}
+  m_Layer: 0
+  m_Name: RealWorld Terrain
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1400532402759064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4601739206942200}
+  - component: {fileID: 218491660089921318}
+  - component: {fileID: 154290553765480144}
+  - component: {fileID: 114022736977467142}
+  m_Layer: 0
+  m_Name: Terrain 1x1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967294
+  m_IsActive: 1
+--- !u!1 &1582065058192708
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4707065872897928}
+  - component: {fileID: 33578495530283642}
+  - component: {fileID: 65087791227434842}
+  - component: {fileID: 23404411846491020}
+  - component: {fileID: 114405801037281460}
+  m_Layer: 0
+  m_Name: valbellahorn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1642150671692776
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4043650728241914}
+  - component: {fileID: 218516134373331968}
+  - component: {fileID: 154071193095144376}
+  - component: {fileID: 114010108601553358}
+  m_Layer: 0
+  m_Name: Terrain 1x0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967294
+  m_IsActive: 1
+--- !u!1 &1703577052853410
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4076457954751524}
+  - component: {fileID: 33148498810629660}
+  - component: {fileID: 65004631259055114}
+  - component: {fileID: 23312216097922982}
+  - component: {fileID: 114897942538887326}
+  m_Layer: 0
+  m_Name: Aelpliseehorn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1730846661456226
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4777453212059218}
+  m_Layer: 0
+  m_Name: POI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &1741766749485288
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4442966177505370}
+  - component: {fileID: 218815610889275370}
+  - component: {fileID: 154731525300472384}
+  - component: {fileID: 114876464740660242}
+  m_Layer: 0
+  m_Name: Terrain 0x0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967294
+  m_IsActive: 1
+--- !u!1 &1812647578497788
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4319045857945932}
+  - component: {fileID: 33072068163310966}
+  - component: {fileID: 65937698544636326}
+  - component: {fileID: 23179201983417688}
+  - component: {fileID: 114612197090960806}
+  m_Layer: 0
+  m_Name: Aroser Rothorn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1827720716328636
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4563497670611230}
+  - component: {fileID: 218878334255898252}
+  - component: {fileID: 154503741750836962}
+  - component: {fileID: 114459278436401916}
+  m_Layer: 0
+  m_Name: Terrain 0x1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967294
+  m_IsActive: 1
+--- !u!4 &4043650728241914
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1642150671692776}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2, y: 0, z: 2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4606437115425806}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4043876332974390
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1354090847014330}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.153964, y: 0.84971774, z: 0.20360588}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4777453212059218}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4062681231273644
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1387864329543286}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.700839, y: 0.5836265, z: 2.915617}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4777453212059218}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4076457954751524
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1703577052853410}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.7128762, y: 0.80334514, z: 1.1624414}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4777453212059218}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4192217072367080
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1380651472152200}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.5914642, y: 0.8008806, z: 3.182694}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4777453212059218}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4319045857945932
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1812647578497788}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.7076678, y: 0.9566996, z: 0.85995626}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4777453212059218}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4442966177505370
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1741766749485288}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4606437115425806}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4563497670611230
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1827720716328636}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4606437115425806}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4601739206942200
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1400532402759064}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4606437115425806}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4606437115425806
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1389648211596146}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.93, y: -0.5, z: -1.88}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4563497670611230}
+  - {fileID: 4601739206942200}
+  - {fileID: 4442966177505370}
+  - {fileID: 4043650728241914}
+  - {fileID: 4777453212059218}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4707065872897928
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1582065058192708}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.3225117, y: 0.8312292, z: 0.891875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4777453212059218}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4777453212059218
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1730846661456226}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4043876332974390}
+  - {fileID: 4192217072367080}
+  - {fileID: 4967156380636662}
+  - {fileID: 4062681231273644}
+  - {fileID: 4707065872897928}
+  - {fileID: 4319045857945932}
+  - {fileID: 4817967875786962}
+  - {fileID: 4076457954751524}
+  m_Father: {fileID: 4606437115425806}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4817967875786962
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1324772410625266}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.35350117, y: 0.87852067, z: 1.0008072}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4777453212059218}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4967156380636662
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1009837967498282}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.8831308, y: 0.7960649, z: 2.3599224}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4777453212059218}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &23179201983417688
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1812647578497788}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23243447536456270
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1009837967498282}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23312216097922982
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1703577052853410}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23404411846491020
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1582065058192708}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23438059120030898
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1354090847014330}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23489797931002424
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1387864329543286}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23580065915107648
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1324772410625266}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &23785709475332254
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1380651472152200}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &33072068163310966
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1812647578497788}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!33 &33148498810629660
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1703577052853410}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!33 &33576203748172338
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1009837967498282}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!33 &33578495530283642
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1582065058192708}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!33 &33764774599934154
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1324772410625266}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!33 &33786325336079730
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1354090847014330}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!33 &33969340965527366
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1387864329543286}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!33 &33986427195169512
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1380651472152200}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!65 &65004631259055114
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1703577052853410}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65087791227434842
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1582065058192708}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65107103067464230
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1380651472152200}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65400660537026596
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1009837967498282}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65575616509501872
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1387864329543286}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65651631888938388
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1324772410625266}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65750435095096198
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1354090847014330}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65937698544636326
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1812647578497788}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &114010108601553358
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1642150671692776}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc9fccbe3f9587140a1e1601f0e73d70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bounds:
+    m_Center: {x: 3, y: 0.5, z: 3}
+    m_Extent: {x: 1, y: 0.5, z: 1}
+  generateGrass: 0
+  generateRoads: 0
+  generateTextures: 1
+  generateTrees: 0
+  generatedBuildings: 0
+  generatedGrass: 0
+  generatedTextures: 1
+  generatedTrees: 0
+  maxElevation: 3046.533741864667
+  minElevation: -100
+  prefs:
+    autoDetectElevationOffset: {x: 100, y: 100}
+    baseMapResolution: 1024
+    bingMapsUseZeroAsUnknown: 0
+    buildingFloorHeight: 3.5
+    buildingGenerator: 0
+    buildingFloorLimits:
+      min: 5
+      minLimit: 1
+      max: 7
+      maxLimit: 50
+    buildingMaterials: []
+    buildingPrefabs: []
+    buildingSaveInResult: 1
+    buildingSingleRequest: 1
+    buildingUseColorTags: 1
+    buildRCollider: 0
+    buildRRenderMode: 0
+    controlTextureResolution: 512
+    customBuildRGeneratorStyle: 0
+    customBuildRGeneratorTexturePack: 0
+    customBuildRPresets: []
+    depthSharpness: 0
+    detailResolution: 32
+    elevationProvider: 0
+    elevationRange: 0
+    elevationType: 0
+    erSnapToTerrain: 1
+    fixedTerrainSize: {x: 2, y: 600, z: 2}
+    gaiaStampResolution: 1024
+    generateUnderWater: 0
+    grassDensity: 100
+    grassEngine: 
+    grassPrefabs: []
+    heightmapResolution: 33
+    ignoreSRTMErrors: 0
+    fixedMaxElevation: 1000
+    fixedMinElevation: 0
+    mapTypeID: virtualearth.aerial
+    mapTypeExtraFields: 
+    maxElevationType: 0
+    maxTextureLevel: 0
+    nodataValue: 0
+    POI:
+    - title: guggernellgrat
+      x: 9.66206
+      y: 46.72187
+    - title: weisshorn
+      x: 9.64352
+      y: 46.78914
+    - title: "H\xF6rnli"
+      x: 9.620174
+      y: 46.77057
+    - title: Arosa
+      x: 9.680084
+      y: 46.78311
+    - title: valbellahorn
+      x: 9.700574
+      y: 46.73742
+    - title: Aroser Rothorn
+      x: 9.614391
+      y: 46.7367
+    - title: Parpaner Rothorn
+      x: 9.602718
+      y: 46.73988
+    - title: Aelpliseehorn
+      x: 9.647522
+      y: 46.74353
+    rawByteOrder: 0
+    rawFilename: terrain
+    rawHeight: 1024
+    rawWidth: 1024
+    rawType: 0
+    reduceTextures: 1
+    resolutionPerPatch: 16
+    resultType: 0
+    roadEngine: 
+    roadTypes: -1
+    sizeType: 2
+    splineBendMaterial: {fileID: 0}
+    splineBendMesh: {fileID: 0}
+    terrainScale: {x: 1, y: 1, z: 1}
+    textureCount:
+      x: 2
+      y: 2
+    title: Arosaterrain2
+    textureFileType: 1
+    textureFileQuality: 100
+    textureProvider: 4
+    textureProviderURL: http://localhost/tiles/{zoom}/{x}/{y}
+    textureSize:
+      x: 4096
+      y: 4096
+    textureType: 0
+    treeDensity: 100
+    treePrefabs: []
+    volumeGrassOutsidePoints: 0
+  scale: {x: 30.34074, y: 0.00031781005, z: 44.292305}
+  size: {x: 2, y: 1, z: 2}
+  topLatitude: 46.80757858156739
+  topMercator: 0.3525085470787752
+  leftLongitude: 9.656985953450192
+  leftMercator: 0.5268249591191609
+  bottomLatitude: 46.762442932465504
+  bottomMercator: 0.35269164901301714
+  rightLongitude: 9.722903922200192
+  rightMercator: 0.5270080645879109
+  width: 0.06591796875
+  height: -0.045135649101887054
+  mercatorWidth: 0.00018310546875
+  mercatorHeight: 0.0001831019342419249
+  container: {fileID: 114211424882885986}
+  x: 1
+  y: 1
+  ry: 0
+  needUpdate: 0
+  meshFilter: {fileID: 0}
+  terrain: {fileID: 218516134373331968}
+--- !u!114 &114022736977467142
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1400532402759064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc9fccbe3f9587140a1e1601f0e73d70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bounds:
+    m_Center: {x: 3, y: 0.5, z: 1}
+    m_Extent: {x: 1, y: 0.5, z: 1}
+  generateGrass: 0
+  generateRoads: 0
+  generateTextures: 1
+  generateTrees: 0
+  generatedBuildings: 0
+  generatedGrass: 0
+  generatedTextures: 1
+  generatedTrees: 0
+  maxElevation: 3046.533741864667
+  minElevation: -100
+  prefs:
+    autoDetectElevationOffset: {x: 100, y: 100}
+    baseMapResolution: 1024
+    bingMapsUseZeroAsUnknown: 0
+    buildingFloorHeight: 3.5
+    buildingGenerator: 0
+    buildingFloorLimits:
+      min: 5
+      minLimit: 1
+      max: 7
+      maxLimit: 50
+    buildingMaterials: []
+    buildingPrefabs: []
+    buildingSaveInResult: 1
+    buildingSingleRequest: 1
+    buildingUseColorTags: 1
+    buildRCollider: 0
+    buildRRenderMode: 0
+    controlTextureResolution: 512
+    customBuildRGeneratorStyle: 0
+    customBuildRGeneratorTexturePack: 0
+    customBuildRPresets: []
+    depthSharpness: 0
+    detailResolution: 32
+    elevationProvider: 0
+    elevationRange: 0
+    elevationType: 0
+    erSnapToTerrain: 1
+    fixedTerrainSize: {x: 2, y: 600, z: 2}
+    gaiaStampResolution: 1024
+    generateUnderWater: 0
+    grassDensity: 100
+    grassEngine: 
+    grassPrefabs: []
+    heightmapResolution: 33
+    ignoreSRTMErrors: 0
+    fixedMaxElevation: 1000
+    fixedMinElevation: 0
+    mapTypeID: virtualearth.aerial
+    mapTypeExtraFields: 
+    maxElevationType: 0
+    maxTextureLevel: 0
+    nodataValue: 0
+    POI:
+    - title: guggernellgrat
+      x: 9.66206
+      y: 46.72187
+    - title: weisshorn
+      x: 9.64352
+      y: 46.78914
+    - title: "H\xF6rnli"
+      x: 9.620174
+      y: 46.77057
+    - title: Arosa
+      x: 9.680084
+      y: 46.78311
+    - title: valbellahorn
+      x: 9.700574
+      y: 46.73742
+    - title: Aroser Rothorn
+      x: 9.614391
+      y: 46.7367
+    - title: Parpaner Rothorn
+      x: 9.602718
+      y: 46.73988
+    - title: Aelpliseehorn
+      x: 9.647522
+      y: 46.74353
+    rawByteOrder: 0
+    rawFilename: terrain
+    rawHeight: 1024
+    rawWidth: 1024
+    rawType: 0
+    reduceTextures: 1
+    resolutionPerPatch: 16
+    resultType: 0
+    roadEngine: 
+    roadTypes: -1
+    sizeType: 2
+    splineBendMaterial: {fileID: 0}
+    splineBendMesh: {fileID: 0}
+    terrainScale: {x: 1, y: 1, z: 1}
+    textureCount:
+      x: 2
+      y: 2
+    title: Arosaterrain2
+    textureFileType: 1
+    textureFileQuality: 100
+    textureProvider: 4
+    textureProviderURL: http://localhost/tiles/{zoom}/{x}/{y}
+    textureSize:
+      x: 4096
+      y: 4096
+    textureType: 0
+    treeDensity: 100
+    treePrefabs: []
+    volumeGrassOutsidePoints: 0
+  scale: {x: 30.34074, y: 0.00031781005, z: 44.292305}
+  size: {x: 2, y: 1, z: 2}
+  topLatitude: 46.762442932465504
+  topMercator: 0.35269164901301714
+  leftLongitude: 9.656985953450192
+  leftMercator: 0.5268249591191609
+  bottomLatitude: 46.71726943773101
+  bottomMercator: 0.35287475094725906
+  rightLongitude: 9.722903922200192
+  rightMercator: 0.5270080645879109
+  width: 0.06591796875
+  height: -0.045173494734491726
+  mercatorWidth: 0.00018310546875
+  mercatorHeight: 0.0001831019342419249
+  container: {fileID: 114211424882885986}
+  x: 1
+  y: 0
+  ry: 1
+  needUpdate: 0
+  meshFilter: {fileID: 0}
+  terrain: {fileID: 218491660089921318}
+--- !u!114 &114081247364910586
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1380651472152200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374f4970e8d22fd42a12bb3c64287f73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: weisshorn
+  x: 9.64352
+  y: 46.78914
+--- !u!114 &114211424882885986
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1389648211596146}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35746522d0c34a74e98f963412f0defe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bounds:
+    m_Center: {x: 2, y: 0.5, z: 2}
+    m_Extent: {x: 2, y: 0.5, z: 2}
+  generateGrass: 0
+  generateRoads: 0
+  generateTextures: 1
+  generateTrees: 0
+  generatedBuildings: 0
+  generatedGrass: 0
+  generatedTextures: 0
+  generatedTrees: 0
+  maxElevation: 3046.533741864667
+  minElevation: -100
+  prefs:
+    autoDetectElevationOffset: {x: 100, y: 100}
+    baseMapResolution: 1024
+    bingMapsUseZeroAsUnknown: 0
+    buildingFloorHeight: 3.5
+    buildingGenerator: 0
+    buildingFloorLimits:
+      min: 5
+      minLimit: 1
+      max: 7
+      maxLimit: 50
+    buildingMaterials: []
+    buildingPrefabs: []
+    buildingSaveInResult: 1
+    buildingSingleRequest: 1
+    buildingUseColorTags: 1
+    buildRCollider: 0
+    buildRRenderMode: 0
+    controlTextureResolution: 512
+    customBuildRGeneratorStyle: 0
+    customBuildRGeneratorTexturePack: 0
+    customBuildRPresets: []
+    depthSharpness: 0
+    detailResolution: 32
+    elevationProvider: 0
+    elevationRange: 0
+    elevationType: 0
+    erSnapToTerrain: 1
+    fixedTerrainSize: {x: 2, y: 600, z: 2}
+    gaiaStampResolution: 1024
+    generateUnderWater: 0
+    grassDensity: 100
+    grassEngine: 
+    grassPrefabs: []
+    heightmapResolution: 33
+    ignoreSRTMErrors: 0
+    fixedMaxElevation: 1000
+    fixedMinElevation: 0
+    mapTypeID: virtualearth.aerial
+    mapTypeExtraFields: 
+    maxElevationType: 0
+    maxTextureLevel: 0
+    nodataValue: 0
+    POI:
+    - title: guggernellgrat
+      x: 9.66206
+      y: 46.72187
+    - title: weisshorn
+      x: 9.64352
+      y: 46.78914
+    - title: "H\xF6rnli"
+      x: 9.620174
+      y: 46.77057
+    - title: Arosa
+      x: 9.680084
+      y: 46.78311
+    - title: valbellahorn
+      x: 9.700574
+      y: 46.73742
+    - title: Aroser Rothorn
+      x: 9.614391
+      y: 46.7367
+    - title: Parpaner Rothorn
+      x: 9.602718
+      y: 46.73988
+    - title: Aelpliseehorn
+      x: 9.647522
+      y: 46.74353
+    rawByteOrder: 0
+    rawFilename: terrain
+    rawHeight: 1024
+    rawWidth: 1024
+    rawType: 0
+    reduceTextures: 1
+    resolutionPerPatch: 16
+    resultType: 0
+    roadEngine: 
+    roadTypes: -1
+    sizeType: 2
+    splineBendMaterial: {fileID: 0}
+    splineBendMesh: {fileID: 0}
+    terrainScale: {x: 1, y: 1, z: 1}
+    textureCount:
+      x: 2
+      y: 2
+    title: Arosaterrain2
+    textureFileType: 1
+    textureFileQuality: 100
+    textureProvider: 4
+    textureProviderURL: http://localhost/tiles/{zoom}/{x}/{y}
+    textureSize:
+      x: 4096
+      y: 4096
+    textureType: 0
+    treeDensity: 100
+    treePrefabs: []
+    volumeGrassOutsidePoints: 0
+  scale: {x: 30.34074, y: 0.00031781005, z: 44.292305}
+  size: {x: 4, y: 1, z: 4}
+  topLatitude: 46.80757858156739
+  topMercator: 0.3525085470787752
+  leftLongitude: 9.591067984700192
+  leftMercator: 0.5266418536504109
+  bottomLatitude: 46.71726943773101
+  bottomMercator: 0.35287475094725906
+  rightLongitude: 9.722903922200192
+  rightMercator: 0.5270080645879109
+  width: 0.1318359375
+  height: -0.09030914383637878
+  mercatorWidth: 0.0003662109375
+  mercatorHeight: 0.0003662038684838498
+  billboardStart: 50
+  detailDensity: 1
+  detailDistance: 80
+  folder: Assets/RWT_Result/2018-12-17 20-49
+  terrainCount:
+    x: 2
+    y: 2
+  title: Arosaterrain2
+  treeDistance: 2000
+  terrains:
+  - {fileID: 114459278436401916}
+  - {fileID: 114022736977467142}
+  - {fileID: 114876464740660242}
+  - {fileID: 114010108601553358}
+--- !u!114 &114405801037281460
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1582065058192708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374f4970e8d22fd42a12bb3c64287f73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: valbellahorn
+  x: 9.700574
+  y: 46.73742
+--- !u!114 &114459278436401916
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1827720716328636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc9fccbe3f9587140a1e1601f0e73d70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bounds:
+    m_Center: {x: 1, y: 0.5, z: 1}
+    m_Extent: {x: 1, y: 0.5, z: 1}
+  generateGrass: 0
+  generateRoads: 0
+  generateTextures: 1
+  generateTrees: 0
+  generatedBuildings: 0
+  generatedGrass: 0
+  generatedTextures: 1
+  generatedTrees: 0
+  maxElevation: 3046.533741864667
+  minElevation: -100
+  prefs:
+    autoDetectElevationOffset: {x: 100, y: 100}
+    baseMapResolution: 1024
+    bingMapsUseZeroAsUnknown: 0
+    buildingFloorHeight: 3.5
+    buildingGenerator: 0
+    buildingFloorLimits:
+      min: 5
+      minLimit: 1
+      max: 7
+      maxLimit: 50
+    buildingMaterials: []
+    buildingPrefabs: []
+    buildingSaveInResult: 1
+    buildingSingleRequest: 1
+    buildingUseColorTags: 1
+    buildRCollider: 0
+    buildRRenderMode: 0
+    controlTextureResolution: 512
+    customBuildRGeneratorStyle: 0
+    customBuildRGeneratorTexturePack: 0
+    customBuildRPresets: []
+    depthSharpness: 0
+    detailResolution: 32
+    elevationProvider: 0
+    elevationRange: 0
+    elevationType: 0
+    erSnapToTerrain: 1
+    fixedTerrainSize: {x: 2, y: 600, z: 2}
+    gaiaStampResolution: 1024
+    generateUnderWater: 0
+    grassDensity: 100
+    grassEngine: 
+    grassPrefabs: []
+    heightmapResolution: 33
+    ignoreSRTMErrors: 0
+    fixedMaxElevation: 1000
+    fixedMinElevation: 0
+    mapTypeID: virtualearth.aerial
+    mapTypeExtraFields: 
+    maxElevationType: 0
+    maxTextureLevel: 0
+    nodataValue: 0
+    POI:
+    - title: guggernellgrat
+      x: 9.66206
+      y: 46.72187
+    - title: weisshorn
+      x: 9.64352
+      y: 46.78914
+    - title: "H\xF6rnli"
+      x: 9.620174
+      y: 46.77057
+    - title: Arosa
+      x: 9.680084
+      y: 46.78311
+    - title: valbellahorn
+      x: 9.700574
+      y: 46.73742
+    - title: Aroser Rothorn
+      x: 9.614391
+      y: 46.7367
+    - title: Parpaner Rothorn
+      x: 9.602718
+      y: 46.73988
+    - title: Aelpliseehorn
+      x: 9.647522
+      y: 46.74353
+    rawByteOrder: 0
+    rawFilename: terrain
+    rawHeight: 1024
+    rawWidth: 1024
+    rawType: 0
+    reduceTextures: 1
+    resolutionPerPatch: 16
+    resultType: 0
+    roadEngine: 
+    roadTypes: -1
+    sizeType: 2
+    splineBendMaterial: {fileID: 0}
+    splineBendMesh: {fileID: 0}
+    terrainScale: {x: 1, y: 1, z: 1}
+    textureCount:
+      x: 2
+      y: 2
+    title: Arosaterrain2
+    textureFileType: 1
+    textureFileQuality: 100
+    textureProvider: 4
+    textureProviderURL: http://localhost/tiles/{zoom}/{x}/{y}
+    textureSize:
+      x: 4096
+      y: 4096
+    textureType: 0
+    treeDensity: 100
+    treePrefabs: []
+    volumeGrassOutsidePoints: 0
+  scale: {x: 30.34074, y: 0.00031781005, z: 44.292305}
+  size: {x: 2, y: 1, z: 2}
+  topLatitude: 46.762442932465504
+  topMercator: 0.35269164901301714
+  leftLongitude: 9.591067984700192
+  leftMercator: 0.5266418536504109
+  bottomLatitude: 46.71726943773101
+  bottomMercator: 0.35287475094725906
+  rightLongitude: 9.656985953450192
+  rightMercator: 0.5268249591191609
+  width: 0.06591796875
+  height: -0.045173494734491726
+  mercatorWidth: 0.00018310546875
+  mercatorHeight: 0.0001831019342419249
+  container: {fileID: 114211424882885986}
+  x: 0
+  y: 0
+  ry: 1
+  needUpdate: 0
+  meshFilter: {fileID: 0}
+  terrain: {fileID: 218878334255898252}
+--- !u!114 &114567137895538230
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1324772410625266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374f4970e8d22fd42a12bb3c64287f73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: Parpaner Rothorn
+  x: 9.602718
+  y: 46.73988
+--- !u!114 &114597705146037196
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1009837967498282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374f4970e8d22fd42a12bb3c64287f73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: "H\xF6rnli"
+  x: 9.620174
+  y: 46.77057
+--- !u!114 &114612197090960806
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1812647578497788}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374f4970e8d22fd42a12bb3c64287f73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: Aroser Rothorn
+  x: 9.614391
+  y: 46.7367
+--- !u!114 &114876464740660242
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1741766749485288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc9fccbe3f9587140a1e1601f0e73d70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bounds:
+    m_Center: {x: 1, y: 0.5, z: 3}
+    m_Extent: {x: 1, y: 0.5, z: 1}
+  generateGrass: 0
+  generateRoads: 0
+  generateTextures: 1
+  generateTrees: 0
+  generatedBuildings: 0
+  generatedGrass: 0
+  generatedTextures: 1
+  generatedTrees: 0
+  maxElevation: 3046.533741864667
+  minElevation: -100
+  prefs:
+    autoDetectElevationOffset: {x: 100, y: 100}
+    baseMapResolution: 1024
+    bingMapsUseZeroAsUnknown: 0
+    buildingFloorHeight: 3.5
+    buildingGenerator: 0
+    buildingFloorLimits:
+      min: 5
+      minLimit: 1
+      max: 7
+      maxLimit: 50
+    buildingMaterials: []
+    buildingPrefabs: []
+    buildingSaveInResult: 1
+    buildingSingleRequest: 1
+    buildingUseColorTags: 1
+    buildRCollider: 0
+    buildRRenderMode: 0
+    controlTextureResolution: 512
+    customBuildRGeneratorStyle: 0
+    customBuildRGeneratorTexturePack: 0
+    customBuildRPresets: []
+    depthSharpness: 0
+    detailResolution: 32
+    elevationProvider: 0
+    elevationRange: 0
+    elevationType: 0
+    erSnapToTerrain: 1
+    fixedTerrainSize: {x: 2, y: 600, z: 2}
+    gaiaStampResolution: 1024
+    generateUnderWater: 0
+    grassDensity: 100
+    grassEngine: 
+    grassPrefabs: []
+    heightmapResolution: 33
+    ignoreSRTMErrors: 0
+    fixedMaxElevation: 1000
+    fixedMinElevation: 0
+    mapTypeID: virtualearth.aerial
+    mapTypeExtraFields: 
+    maxElevationType: 0
+    maxTextureLevel: 0
+    nodataValue: 0
+    POI:
+    - title: guggernellgrat
+      x: 9.66206
+      y: 46.72187
+    - title: weisshorn
+      x: 9.64352
+      y: 46.78914
+    - title: "H\xF6rnli"
+      x: 9.620174
+      y: 46.77057
+    - title: Arosa
+      x: 9.680084
+      y: 46.78311
+    - title: valbellahorn
+      x: 9.700574
+      y: 46.73742
+    - title: Aroser Rothorn
+      x: 9.614391
+      y: 46.7367
+    - title: Parpaner Rothorn
+      x: 9.602718
+      y: 46.73988
+    - title: Aelpliseehorn
+      x: 9.647522
+      y: 46.74353
+    rawByteOrder: 0
+    rawFilename: terrain
+    rawHeight: 1024
+    rawWidth: 1024
+    rawType: 0
+    reduceTextures: 1
+    resolutionPerPatch: 16
+    resultType: 0
+    roadEngine: 
+    roadTypes: -1
+    sizeType: 2
+    splineBendMaterial: {fileID: 0}
+    splineBendMesh: {fileID: 0}
+    terrainScale: {x: 1, y: 1, z: 1}
+    textureCount:
+      x: 2
+      y: 2
+    title: Arosaterrain2
+    textureFileType: 1
+    textureFileQuality: 100
+    textureProvider: 4
+    textureProviderURL: http://localhost/tiles/{zoom}/{x}/{y}
+    textureSize:
+      x: 4096
+      y: 4096
+    textureType: 0
+    treeDensity: 100
+    treePrefabs: []
+    volumeGrassOutsidePoints: 0
+  scale: {x: 30.34074, y: 0.00031781005, z: 44.292305}
+  size: {x: 2, y: 1, z: 2}
+  topLatitude: 46.80757858156739
+  topMercator: 0.3525085470787752
+  leftLongitude: 9.591067984700192
+  leftMercator: 0.5266418536504109
+  bottomLatitude: 46.762442932465504
+  bottomMercator: 0.35269164901301714
+  rightLongitude: 9.656985953450192
+  rightMercator: 0.5268249591191609
+  width: 0.06591796875
+  height: -0.045135649101887054
+  mercatorWidth: 0.00018310546875
+  mercatorHeight: 0.0001831019342419249
+  container: {fileID: 114211424882885986}
+  x: 0
+  y: 1
+  ry: 0
+  needUpdate: 0
+  meshFilter: {fileID: 0}
+  terrain: {fileID: 218815610889275370}
+--- !u!114 &114897942538887326
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1703577052853410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374f4970e8d22fd42a12bb3c64287f73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: Aelpliseehorn
+  x: 9.647522
+  y: 46.74353
+--- !u!114 &114987081873979296
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1354090847014330}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374f4970e8d22fd42a12bb3c64287f73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: guggernellgrat
+  x: 9.66206
+  y: 46.72187
+--- !u!114 &114995042523389326
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1387864329543286}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374f4970e8d22fd42a12bb3c64287f73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: Arosa
+  x: 9.680084
+  y: 46.78311
+--- !u!154 &154071193095144376
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1642150671692776}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: 11d96df6a6eeb2c488be3a7153a761cc, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154290553765480144
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1400532402759064}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: 9272b3b0af6424f43b1eae34855c190e, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154503741750836962
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1827720716328636}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: 71402a711c490b6429989c14e457bb2a, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154731525300472384
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1741766749485288}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: cf81861586848d84d90fe0bc2f5e16ec, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!218 &218491660089921318
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1400532402759064}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: 9272b3b0af6424f43b1eae34855c190e, type: 2}
+  m_TreeDistance: 5000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 0
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 1
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218516134373331968
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1642150671692776}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: 11d96df6a6eeb2c488be3a7153a761cc, type: 2}
+  m_TreeDistance: 5000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 0
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 1
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218815610889275370
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1741766749485288}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: cf81861586848d84d90fe0bc2f5e16ec, type: 2}
+  m_TreeDistance: 5000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 0
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 1
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218878334255898252
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1827720716328636}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: 71402a711c490b6429989c14e457bb2a, type: 2}
+  m_TreeDistance: 5000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 0
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 1
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
