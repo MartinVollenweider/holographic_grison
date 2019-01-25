@@ -10,7 +10,7 @@
   - Unity 2017.4.15f1 (Link)
   - Mixed Reality Toolkit
   
-(Detaillierte Installationsanleitung)[https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools]
+[Detaillierte Installationsanleitung](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
 - HoloLens device 
 
 
