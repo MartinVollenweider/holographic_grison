@@ -17,7 +17,7 @@ Das ausgewählte Terrain umfasst Arosa und Umgebung. Die Szene ist so aufgebaut,
   - [Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity/blob/master/README.md)
   
 [Detaillierte Installationsanleitung](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
-- HoloLens device 
+- HoloLens Gerät 
 
 Dieses Repository nutzt Git Large File Storage (git-lfs) für grosse Dateien. Git-lfs muss lokal auf dem Computer installiert werden: [https://git-lfs.github.com](https://git-lfs.github.com)
 
