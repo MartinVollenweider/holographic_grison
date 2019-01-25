@@ -85,3 +85,7 @@ Die Annotationen, der angezeigte Weg und die Wolken können via Speech Commands 
 
 ## Benutzte Assets
 
+### Real World Terrain
+
+Für bequemes importieren und konfigurieren von Gelände inkl. Texturen wird das Asset [Real World Terrain](https://assetstore.unity.com/packages/tools/terrain/real-world-terrain-8752) benutzt. Das Asset ist schon bestandteil des Projektes und muss nicht mehr runtergeladen bzw. gekauft werden. 
+
