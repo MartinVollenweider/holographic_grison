@@ -40,10 +40,12 @@ Github Desktop:
 
 ## Build
 
-### Build Settings
+1) File->Build Settings öffnen
+2) Build Settings wie folgt einstellen:
 
 ![Build Settings](https://user-images.githubusercontent.com/6608578/51751697-c652df00-20b5-11e9-8e6d-076ddb9967e2.jpg)
 
+3) "Build" drücken
 
 ## Benutzte Assets
 
