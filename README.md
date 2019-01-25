@@ -4,6 +4,8 @@
 
 Der vorliegende Protyp fürs Forschungsprojekt Holographic Grisons umfasst ein Terrain mit platzierbaren Annotationen und zeigt anhand eines angezeigten Weges wie Wegdaten (z.B. von OpenStreetMap) importiert und aufs Terrain gemappt werden können. Vorbeiziehende Wolken zeigen wie ein Modell durch eine Immersionsebene erweitert werden kann.
 
+Das ausgewählte Terrain umfasst Arosa und Umgebung. Die Szene ist so aufgebaut, dass sie relativ einfach auf andere Gebiete angepasst werden kann. 
+
 ## Systemvoraussetzungen
 
 - Windows 10 PC mit den richtigen Tools installiert:
@@ -17,9 +19,15 @@ Der vorliegende Protyp fürs Forschungsprojekt Holographic Grisons umfasst ein T
 
 Dieses Repository nutzt Git Large File Storage (git-lfs) für grosse Dateien. Git-lfs muss lokal auf dem Computer installiert werden: [https://git-lfs.github.com](https://git-lfs.github.com)
 
-
-
 ## Installation
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 ## Usage
+
+## Benutzte Assets
 
