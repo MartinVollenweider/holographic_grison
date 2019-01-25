@@ -43,7 +43,7 @@ Github Desktop:
 ## Export von Unity nach Visual Studio 
 
 Build und Deployment erfolgen wie [hier](https://docs.microsoft.com/en-us/windows/mixed-reality/holograms-101) beschrieben. 
-Die wichtigsten Schritte erfolgen wie folgt: 
+Die einzelnen Schritte: 
 
 - In Unity select File > Build Settings.
 - Select Universal Windows Platform in the Platform list and click Switch Platform.
