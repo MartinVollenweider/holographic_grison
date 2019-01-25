@@ -5,10 +5,10 @@
 ## Prerequisites
 
 - Windows 10 PC mit den richtigen Tools installiert:
-  - [Visual Studio 2017] (https://visualstudio.microsoft.com/downloads/)
-  - [Windows 10 SDK] (https://developer.microsoft.com/en-US/windows/downloads/windows-10-sdk)
-  - [Unity 2017.4.15f1] (https://unity3d.com/unity/qa/lts-releases)
-  - [Mixed Reality Toolkit] (https://github.com/Microsoft/MixedRealityToolkit-Unity/blob/master/README.md)
+ [Visual Studio 2017] (https://visualstudio.microsoft.com/downloads/)
+ [Windows 10 SDK] (https://developer.microsoft.com/en-US/windows/downloads/windows-10-sdk)
+ [Unity 2017.4.15f1] (https://unity3d.com/unity/qa/lts-releases)
+ [Mixed Reality Toolkit] (https://github.com/Microsoft/MixedRealityToolkit-Unity/blob/master/README.md)
   
 [Detaillierte Installationsanleitung](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
 - HoloLens device 
