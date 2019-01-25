@@ -47,7 +47,9 @@ Github Desktop:
 
 3) "Build" drücken, darauf folgt die Aufforderung einen Build Ordner zu wählen.
 
-4)
+4) Build Ordner öffen _HolographicGrisons.sln_ doppelklicken um in Visual Studio zu öffnen
+
+5) Build und Deployment nach HoloLens wie 
 
 ## Benutzte Assets
 
