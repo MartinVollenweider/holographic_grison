@@ -38,7 +38,7 @@ Github Desktop:
 3) Projekt in Unity öffnen
 
 
-## Usage
+## Build
 
 ## Benutzte Assets
 
