@@ -1,4 +1,4 @@
-# Forschungsprojekt Holographoc Grisons
+# Forschungsprojekt Holographic Grisons
 
 ## Description
 
