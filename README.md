@@ -6,6 +6,8 @@ Der vorliegende Protyp fürs Forschungsprojekt Holographic Grisons umfasst ein T
 
 Das ausgewählte Terrain umfasst Arosa und Umgebung. Die Szene ist so aufgebaut, dass sie relativ einfach auf andere Gebiete angepasst werden kann. 
 
+[Screen recording](https://drive.google.com/file/d/1bQkQS4UM795xcwBWdy0i45mah5A30EtM/view) vom laufenden Prototyp in HoloLens.
+
 ## Systemvoraussetzungen
 
 - Windows 10 PC mit den richtigen Tools installiert:
@@ -67,6 +69,10 @@ Die wichtigsten Schritte erfolgen wie folgt:
 - Click Debug > Start Without debugging or press Ctrl + F5. If this is the first time deploying to your device, you will need to pair it with Visual Studio.
 - The HolographicGrisons project will now build, deploy to your HoloLens, and then run.
 - Put on your HoloLens and look around to see your new holograms.
+
+## Bedienung
+
+Die Annotationen, der angezeigte Weg und die Wolken können via Speech Commands ein und ausgeschaltet werden: 
 
 
 
