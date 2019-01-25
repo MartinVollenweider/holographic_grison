@@ -21,10 +21,9 @@ Dieses Repository nutzt Git Large File Storage (git-lfs) für grosse Dateien. Gi
 
 ## Installation
 
+### Command line
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+git clone https://github.com/MartinVollenweider/holographic_grisons.git
 ```
 
 ## Usage
