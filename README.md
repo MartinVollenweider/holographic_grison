@@ -40,7 +40,7 @@ Github Desktop:
 3) Projekt in Unity öffnen
 
 
-## Projekt von Unity nach Visual Studio exportieren
+## Export von Unity nach Visual Studio 
 
 Build und Deployment erfolgen wie [hier](https://docs.microsoft.com/en-us/windows/mixed-reality/holograms-101) beschrieben. 
 Die wichtigsten Schritte erfolgen wie folgt: 
