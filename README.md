@@ -38,18 +38,37 @@ Github Desktop:
 3) Projekt in Unity öffnen
 
 
-## Build
+## Projekt von Unity nach Visual Studio exportieren
 
-1) File->Build Settings öffnen
-2) Build Settings wie folgt einstellen:
+Build und Deployment erfolgen wie [hier](https://docs.microsoft.com/en-us/windows/mixed-reality/holograms-101) beschrieben. 
+Die wichtigsten Schritte erfolgen wie folgt: 
+
+- In Unity select File > Build Settings.
+- Select Universal Windows Platform in the Platform list and click Switch Platform.
+- Set SDK to Universal 10 and Build Type to D3D.
+- Check Unity C# Projects.
+- Click Add Open Scenes to add the scene.
 
 ![Build Settings](https://user-images.githubusercontent.com/6608578/51751697-c652df00-20b5-11e9-8e6d-076ddb9967e2.jpg)
 
-3) "Build" drücken, darauf folgt die Aufforderung einen Build Ordner zu wählen.
+- Click Build.
+- In the file explorer window that appears, create a New Folder named "App".
+- Single click the App Folder.
+- Press Select Folder.
+- When Unity is done, a File Explorer window will appear.
+- Open the App folder.
+- Open (double click) _HolographicGrisons.sln_.
+- Using the top toolbar in Visual Studio, change the target from Debug to Release and from ARM to X86.
+- Click on the arrow next to the Device button, and select Remote Machine to deploy over Wi-Fi.
+- Set the Address to the name or IP address of your HoloLens. If you do not know your device IP address, look in Settings > - - Network & Internet > Advanced Options or ask Cortana "Hey Cortana, What's my IP address?"
+- If the HoloLens is attached over USB, you may instead select Device to deploy over USB.
+- Leave the Authentication Mode set to Universal.
+- Click Select
+- Click Debug > Start Without debugging or press Ctrl + F5. If this is the first time deploying to your device, you will need to pair it with Visual Studio.
+- The HolographicGrisons project will now build, deploy to your HoloLens, and then run.
+- Put on your HoloLens and look around to see your new holograms.
 
-4) Build Ordner öffen _HolographicGrisons.sln_ doppelklicken um in Visual Studio zu öffnen
 
-5) Build und Deployment nach HoloLens wie 
 
 ## Benutzte Assets
 
