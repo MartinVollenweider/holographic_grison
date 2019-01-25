@@ -74,12 +74,12 @@ Die wichtigsten Schritte erfolgen wie folgt:
 
 Die Annotationen, der angezeigte Weg und die Wolken können via Speech Commands ein und ausgeschaltet werden: 
 
-- _"Labels on"_: Anzeigen der Annotationen
-- _"Labels off"_: Nicht Anzeigen der Annotationen
-- _"Trails on"_: Anzeige des Weges
-- _"Trails off"_: Nicht Anzeigen des Weges
-- _"Weather on"_: Anzeigen der Wolken
-- _"Weather off"_: Nicht Anzeigen der Wolken
+- _"Labels on"_: Einblenden der Annotationen
+- _"Labels off"_: Ausblenden der Annotationen
+- _"Trails on"_: Einblenden des Weges
+- _"Trails off"_: Ausblenden des Weges
+- _"Weather on"_: Einblenden der Wolken
+- _"Weather off"_: Ausblenden der Wolken
 
 
 
