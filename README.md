@@ -28,6 +28,7 @@ git clone https://github.com/MartinVollenweider/holographic_grisons.git
 
 Oder Github Desktop:
 
+https://user-images.githubusercontent.com/6608578/51750981-f6997e00-20b3-11e9-8ae5-b138ca46a3b9.png
 
 
 
