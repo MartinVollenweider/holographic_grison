@@ -1,8 +1,10 @@
 # Forschungsprojekt Holographic Grisons
 
-## Description
+## Prototyp
 
-## Prerequisites
+Der vorliegende Protyp fürs Forschungsprojekt Holographic Grisons umfasst ein Terrain mit platzierbaren Annotationen und zeigt anhand eines angezeigten Weges wie Wegdaten (z.B. von OpenStreetMap) importiert und aufs Terrain gemappt werden können. Vorbeiziehende Wolken zeigen wie ein Modell durch eine Immersionsebene erweitert werden kann.
+
+## Systemvoraussetzungen
 
 - Windows 10 PC mit den richtigen Tools installiert:
   - [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/)
