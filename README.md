@@ -45,7 +45,9 @@ Github Desktop:
 
 ![Build Settings](https://user-images.githubusercontent.com/6608578/51751697-c652df00-20b5-11e9-8e6d-076ddb9967e2.jpg)
 
-3) "Build" drücken
+3) "Build" drücken, darauf folgt die Aufforderung einen Build Ordner zu wählen.
+
+4)
 
 ## Benutzte Assets
 
