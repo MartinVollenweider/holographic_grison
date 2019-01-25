@@ -40,5 +40,10 @@ Github Desktop:
 
 ## Build
 
+### Build Settings
+
+![Build Settings](https://user-images.githubusercontent.com/6608578/51751697-c652df00-20b5-11e9-8e6d-076ddb9967e2.jpg)
+
+
 ## Benutzte Assets
 
