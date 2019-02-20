@@ -83,7 +83,13 @@ Die Annotationen, der angezeigte Weg und die Wolken können via Speech Commands 
 
 
 
-## Benutzte Assets
+## Benutzte Assets / Packages
+
+### Particle Systems
+
+Wird gebraucht für Wolken. Installiert man dies nicht, so fehlen Materials für die Wolken. 
+
+
 
 ### Real World Terrain
 
